@@ -17,7 +17,7 @@ In this tutorial, we review some of the best practices that we can apply to our 
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/global-elements-properties-files/)
+For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/getting-started/global-elements-properties-files/).
 
 For a video of the tutorial go [here](https://youtu.be/HWIhk0gY9gU).
 
