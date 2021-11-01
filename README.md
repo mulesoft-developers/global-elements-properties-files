@@ -12,7 +12,7 @@
 </h4>
 	
 <h3 align="center">
-In this tutorial, we review some of the best practices that we can apply to our future Mule projects.<br><br>
+In this tutorial, we will review some of the best practices that we can apply to our future Mule projects.<br><br>
 </h3>
 
 ## Tutorial and Video
